@@ -31,5 +31,9 @@ Open in Local Host 3000
 
 https://github.com/CodeCourtAce/KanbanBoard2.git
 
+## Deployed link 
+
+https://kanbanboard2-i5ac.onrender.com
+
 
 ![alt text](<Screenshot 2025-01-03 221845.png>) ![alt text](<Screenshot 2025-01-03 221915.png>) ![alt text](<Screenshot 2025-01-03 222017.png>)
